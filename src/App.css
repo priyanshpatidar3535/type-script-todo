@@ -1,0 +1,45 @@
+
+
+.add-task{
+  width: 49%;
+  height: 35px;
+ 
+}
+
+.button-margin{
+ margin-left: 10px;
+ margin-top: 5px !important;
+ margin-bottom: 5px;
+}
+
+.operation-button{
+  margin-top: 10px;
+  float:right;
+}
+.top-text{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.completed{
+  background-color: gray;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 5px;
+}
+.list-value{
+  margin-top: 10px;
+  color: black;
+}
+.btn-secondary{
+  margin-left: 5px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
